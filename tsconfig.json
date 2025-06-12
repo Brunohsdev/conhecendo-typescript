@@ -2,8 +2,8 @@
     "compilerOptions": {
         "outDir": "dist/js",
         "target": "es6",
-        "noEmitOnError": true,
-        "noImplicitAny": true
+        "noEmitOnError": true,//para os erros aparecere
+        "noImplicitAny": true //para o tipo dar erro
     },
     "include": ["app/**/*"]
 }
